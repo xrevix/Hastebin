@@ -1,0 +1,1 @@
+from .Hastebin import *
